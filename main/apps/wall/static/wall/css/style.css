@@ -1,0 +1,26 @@
+.box1, .box2{
+    display: inline-block;
+    vertical-align: top;
+    padding: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    position: relative;
+    left: 100px;
+}
+.header{
+    background-color: lightgray;
+}
+h2, p, a{
+    display: inline-block;
+    margin-right: 50px;
+    margin-left: 10px;
+    padding: 5px;
+}
+a{
+    float: right;
+    position: relative;
+    top: 15px;
+}
+li{
+    list-style: none;
+}
